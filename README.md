@@ -2,6 +2,6 @@
 
 ## powered by Pomodoro
 
-|  #  | 🍅 1 | 🍅 2 |
-| --- | -------- | -------- |
-| 1 | Longest Substring Without Repeating | Longest Substring Without Repeating |
+|  #  | 📅 | 🍅 1 | 🍅 2 |
+| --- | - | -------- | -------- |
+| 1 | 11/16/18 | KMP, | Longest Substring Without Repeating |
