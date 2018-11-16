@@ -4,4 +4,4 @@
 
 |  #  | 📅 | 🍅 1 | 🍅 2 |
 | --- | - | -------- | -------- |
-| 1 | 11/16/18 | KMP, | Longest Substring Without Repeating |
+| 1 | 11/16/18 | KMP,N-Queens,RegularExpression| Longest Substring Without Repeating |
